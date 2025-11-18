@@ -1,0 +1,16 @@
+{
+  "upi": "merchant@upi",
+  "payeeName": "Merchant Name",
+  "upiValid": true,
+  "carousel": [
+    "https://i.ibb.co/gFPbGzZH/20251118-155331.jpg",
+    "https://i.ibb.co/TBTd5S3p/20251118-160648.jpg",
+    "https://i.ibb.co/fVJnf9V7/20251118-153613.jpg"
+  ],
+  "instructions": [
+    "Open any UPI app or scan the QR with your UPI app.",
+    "Confirm the UPI ID and payee name before approving.",
+    "Enter the exact amount in your UPI app (do not rely on defaults).",
+    "After payment, take a screenshot and send it to admin for confirmation."
+  ]
+}
